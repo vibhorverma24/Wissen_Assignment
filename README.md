@@ -4,7 +4,7 @@ The Vacation Calendar is a full-stack MERN (MongoDB, Express, React, Node.js) ap
 
 📅 Monthly View & Weekly View to explore holidays.
 
-🌍 Multi-country support (e.g., USA, India, etc.) — choose your country to see its holiday calendar.
+🌍 Multi-country support (e.g. India,Canada etc.) — choose your country to see its holiday calendar.
 
 🟢 Smart Week Highlighting:
 
